@@ -1,0 +1,5 @@
+{
+  "name": "Absensi Siskamling Blok H",
+  "description": "A web application for managing the Siskamling (neighborhood watch) attendance form for Blok H Tanjung Residence. The form dynamically displays the schedule for the current day.",
+  "requestFramePermissions": []
+}
